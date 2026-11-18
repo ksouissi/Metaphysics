@@ -1,5 +1,5 @@
-[17/11/2026: asked Google Gemini 4 Hydrogen Free whether it succeeded in visualizing the structure described below.
-	It does: https://the-1666-cube-codex.ai.studio/]
+[18/11/2026: asked Google Gemini 4 Hydrogen (Free Tier) whether it succeeded in visualizing the structure described below.
+	It does: https://millenarian-cube-outer-court-explorer.ai.studio/]
 
 Imagine a cube of dimensions 10 * 10 * 10, it is thus made up of 1000 smaller cubes. Place six 10 * 10 * 1 walls on the 6 sides of this millenarian cube.
 
