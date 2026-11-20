@@ -36,10 +36,10 @@ There is more but this is already too long.
 
 [1] Wings:
 Non-face:
-LU column + U wall: top of head-throne/covering foot
-UF column + F wall: back-right/flying
-RD column + D wall: bottom/covering foot
-LB column + L wall: back-left/flying
+LUB capital + LU column + U wall: top of head-throne/covering foot
+LUF cap. + UF col. + F w.: back-right/flying
+RDF cap. + RD col. + D w.: bottom/covering foot
+LDB cap. + LB col. + L w.: back-left/flying
 Face:
-RF column + R wall: front-right/covering face
-DB column + B wall: front-left/covering face
+RUF cap. + RF column + R w.: front-right/covering face
+RDB cap. + DB column + B w.: front-left/covering face
