@@ -1,5 +1,5 @@
-[18/11/2026: asked Google Gemini 4 Hydrogen Free to implement what is below.
-	The result is correct: https://millenarian-cube-outer-court-explorer.ai.studio/]
+[21/11/2026: asked Google Gemini 4 Hydrogen Free to implement what is below.
+	The result is correct: https://the-millenarian-cube.ai.studio/]
 
 Imagine a cube of dimensions 10 * 10 * 10, it is thus made up of 1000 smaller cubes. Place six 10 * 10 * 1 walls on the 6 sides of this millenarian cube.
 
