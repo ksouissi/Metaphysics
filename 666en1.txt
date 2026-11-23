@@ -1,6 +1,8 @@
 [21/11/2026: asked Google Gemini 4 Hydrogen Free to implement what is below.
 	The result is correct: https://the-millenarian-cube.ai.studio/][9]
 
+WARNING: DYSANGELION
+
 Imagine a cube of dimensions 10 * 10 * 10, it is thus made up of 1000 smaller cubes. Place six 10 * 10 * 1 walls on the 6 sides of this millenarian cube.
 
 Join these 6 walls with 10 * 1 * 1 beams at the following edges of the 1000-cube: left-up, up-front, front-right, right-down, down-back, back-left. These colonnades do not have capitals, add them: place between each pair of consecutive shafts a cube, that is to say 6 heads on these corners of the large cube: left-up-front, right-up-front , right-down-front, right-down-back, left-down-back and left-up-back. One of the 8 small cubes at the corners of the internal monolith (the large 1000-cube) is particular, it is not exactly a cube but a miniature of the object we are talking about here, with its 6 walls (three leaking into kernel neighbors), its 6 colonnades and its 6 capitals (12 large structure 666-shell cubes are penetrated by the special corner elements, viz. walls: 3, columns: 6 and capitals: 3). It sits on the throne of 999 cubes, or upside-down, is the corner stone, seed or plan of the whole[3].
