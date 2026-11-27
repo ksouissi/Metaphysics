@@ -2,14 +2,18 @@
 	The result is correct: https://the-millenarian-cube.ai.studio/]
 
 WARNING: DYSANGELION
-
 (You have been warned.)
+
 [NOUVEAUX ESSAIS SUR L'ENTENDEMENT HUMAIN, G. W. Leibniz
 
 Chap. VI. — Des propositions universelles, de leur vérité et de leur certitude.
 § 1. Ph. Toute notre connaissance est des vérités générales ou particulières. Nous ne saurions jamais faire bien entendre les premières qui sont les plus considérables, ni les comprendre que fort rarement nous-mêmes, qu’autant qu’elles sont conçues et exprimées par des paroles.
 
-Th. Je crois qu’encore d’autres marques pourraient faire cet effet ; on le voit par les caractères des Chinois. Et on pourrait introduire un caractère universel fort populaire et meilleur que le leur, si on employait de petites figures à la place des mots, qui représentassent les choses visibles par leurs traits, et les invisibles par des visibles qui les accompagnent, y joignant de certaines marques additionnelles, convenables pour faire entendre les flexions et les particules. Cela servirait d’abord pour communiquer aisément avec les nations éloignées ; mais, si on l’introduisait aussi parmi nous sans renoncer pourtant à l’écriture ordinaire, l’usage de cette manière d’écrire serait d’une grande utilité pour enrichir l’imagination, et pour donner des pensées moins sourdes et moins verbales qu’on n’a maintenant. Il est vrai que l’art de dessiner n’étant point connu de tous, il s’ensuit qu’excepté les livres imprimés de cette façon (que tout le monde apprendrait bientôt à lire), tout le monde ne pourrait point s’en servir autrement que par une manière d’imprimerie, c’est-à-dire ayant des figures gravées toutes prêtes pour les imprimer sur du papier, et y ajoutant par après avec la plume les marques des flexions ou des particules. Mais avec le temps tout le monde apprendrait le dessin dès la jeunesse, pour n’être point privé de la commodité de ce caractère figuré qui parlerait véritablement aux yeux, et qui serait fort au gré du peuple, comme en effet les paysans ont déjà certains almanachs qui leur disent sans paroles une bonne partie de ce qu’ils demandent : et je me souviens d’avoir vu des imprimés satiriques en taille-douce, qui tenaient un peu de l’énigme, où il y avait des figures signifiantes par elles-mêmes, mêlées avec des paroles, au lieu que nos lettres et les caractères chinois ne sont significatifs que par la volonté des hommes (ex instituto).]
+Th. Je crois qu’encore d’autres marques pourraient faire cet effet ; on le voit par les caractères des Chinois. Et on pourrait introduire *un caractère universel fort populaire* et meilleur que le leur, *si on employait de petites figures à la place des mots, qui représentassent les choses visibles par leurs traits, et les invisibles par des visibles qui les accompagnent*, y joignant de certaines marques additionnelles, convenables pour faire entendre les flexions et les particules. Cela servirait d’abord pour communiquer aisément avec les nations éloignées ; mais, si on l’introduisait aussi parmi nous sans renoncer pourtant à l’écriture ordinaire, *l’usage de cette manière d’écrire serait d’une grande utilité pour enrichir l’imagination, et pour donner des pensées moins sourdes et moins verbales qu’on n’a maintenant.* Il est vrai que l’art de dessiner n’étant point connu de tous, il s’ensuit qu’excepté les livres imprimés de cette façon (que tout le monde apprendrait bientôt à lire), tout le monde ne pourrait point s’en servir autrement que par une manière d’imprimerie, c’est-à-dire ayant des figures gravées toutes prêtes pour les imprimer sur du papier, et y ajoutant par après avec la plume les marques des flexions ou des particules. Mais avec le temps tout le monde apprendrait le dessin dès la jeunesse, pour n’être point privé de la commodité de *ce caractère figuré qui parlerait véritablement aux yeux*, et qui serait fort au gré du peuple, comme en effet les paysans ont déjà certains *almanachs qui leur disent sans paroles une bonne partie de ce qu’ils demandent* : et je me souviens d’avoir vu des *imprimés satiriques en taille-douce, qui tenaient un peu de l’énigme, où il y avait des figures signifiantes par elles-mêmes*, mêlées avec des paroles, au lieu que nos lettres et les caractères chinois ne sont significatifs que par la volonté des hommes (ex instituto).
+
+[...] But one must not doubt that the combinatorial art itself or *the general characteristic art* comprehends far more important things than algebra supplied. Because *with its aid all of our thoughts can be drawn*, so to speak, and *pinned and condensed and ordered*: They can be drawn for others so that they are taught; they can be pinned for us so that we do not forget; *they can be condensed so that one can dispose of them without much ado; they can be ordered so that everything is overseen by thinkers.* (Leibniz letter to Tschirnhaus, 1678)
+
+Thus this is the highest rule of the characteristic art that the characters express everything which is hidden in the designated thing. This is best done by numbers because of their abundance and facility of calculating (Leibniz, 1678)]
 
 Imagine a cube of dimensions 10 * 10 * 10, it is thus made up of 1000 smaller cubes. Place six 10 * 10 * 1 walls on the 6 sides of this millenarian cube.
 
@@ -117,8 +121,8 @@ cause of it (unjustly).
 *** Hence the highest plea-
 sure.
 
-Conclusion: I *do not want to go to Heaven.* God forbid[16]. Fear Jesus Christ.
-Fear.
+Conclusion: I *do not want to go to Heaven.* God forbid[16].
+Soli Christo Gloria.
 
 [16] He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled. (John 3:29)
 E.g., Cain, Satan, Saul, Paul, John the Baptist, Eliah are faces of the same « monadic polyhedron » that the Bridegroom's friend is. (read inout.txt)
